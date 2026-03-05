@@ -1,0 +1,22 @@
+{
+  "name": "brand-canvas",
+  "version": "1.0.0",
+  "description": "Interactive Brand Strategy Canvas coaching for Claude Code — guides founders through the 9-box brand strategy framework.",
+  "keywords": [
+    "claude-plugin",
+    "brand-strategy",
+    "startup",
+    "branding",
+    "positioning",
+    "canvas",
+    "founder"
+  ],
+  "author": "Patrick Woods",
+  "license": "MIT",
+  "main": ".claude-plugin/plugin.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patrickwoods/brand-canvas-plugin"
+  },
+  "homepage": "https://github.com/patrickwoods/brand-canvas-plugin#readme"
+}

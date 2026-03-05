@@ -1,0 +1,63 @@
+{
+  "name": "brand-canvas",
+  "version": "1.0.0",
+  "description": "Interactive Brand Strategy Canvas coaching — guides founders through the 9-box brand strategy framework from Patrick Woods' book.",
+  "commands": [
+    {
+      "name": "canvas",
+      "description": "Start or continue your Brand Strategy Canvas. Routes to the right section based on current state.",
+      "path": "commands/canvas/COMMAND.md"
+    }
+  ],
+  "skills": [
+    {
+      "name": "canvas-opportunity",
+      "description": "Guides founders through the Market Opportunity section: Customer Insight (A), Competitive Environment (B), and Features (C)",
+      "path": "skills/canvas-opportunity/SKILL.md",
+      "triggerPhrases": [
+        "work on the market opportunity section",
+        "define my target audience for the canvas",
+        "map out the competitive landscape",
+        "fill out the top section of the brand canvas",
+        "work on customer insight"
+      ]
+    },
+    {
+      "name": "canvas-benefits",
+      "description": "Guides founders through Rational and Emotional Benefits using the Ladder of Abstraction",
+      "path": "skills/canvas-benefits/SKILL.md",
+      "triggerPhrases": [
+        "work on benefits",
+        "define rational and emotional benefits",
+        "work on the benefits section of the canvas",
+        "find the emotional benefits of my product",
+        "build a features benefits continuum"
+      ]
+    },
+    {
+      "name": "canvas-position",
+      "description": "Guides founders through crafting the Positioning Statement and Brand Essence",
+      "path": "skills/canvas-position/SKILL.md",
+      "triggerPhrases": [
+        "write the positioning statement",
+        "work on brand positioning",
+        "craft the positioning statement",
+        "find the brand essence",
+        "work on the positioning section of the canvas"
+      ]
+    },
+    {
+      "name": "canvas-voice",
+      "description": "Guides founders through Values, Personality, and Key Messages",
+      "path": "skills/canvas-voice/SKILL.md",
+      "triggerPhrases": [
+        "work on brand values",
+        "define brand personality",
+        "develop key messages",
+        "work on the voice section",
+        "what should our brand say",
+        "build the message map"
+      ]
+    }
+  ]
+}
