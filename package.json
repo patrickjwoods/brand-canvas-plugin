@@ -16,7 +16,7 @@
   "main": ".claude-plugin/plugin.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/patrickwoods/brand-canvas-plugin"
+    "url": "https://github.com/patrickjwoods/brand-canvas-plugin"
   },
-  "homepage": "https://github.com/patrickwoods/brand-canvas-plugin#readme"
+  "homepage": "https://github.com/patrickjwoods/brand-canvas-plugin#readme"
 }

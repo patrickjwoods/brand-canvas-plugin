@@ -17,7 +17,7 @@ claude plugin install brand-canvas
 Or directly from GitHub:
 
 ```bash
-claude plugin install github:patrickwoods/brand-canvas-plugin
+claude plugin install github:patrickjwoods/brand-canvas-plugin
 ```
 
 ## Usage
