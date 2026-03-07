@@ -14,13 +14,21 @@ Read `brand-canvas.md` in the current working directory if it exists.
 Introduce the framework briefly, ask for the company name, then create `brand-canvas.md` with the template below. Hand off to the `canvas-opportunity` skill.
 
 Introduction script:
-> "Let's build your brand strategy. The Brand Strategy Canvas is a 9-box framework that forces you to do the strategic thinking before jumping to logos, taglines, and websites.
+> "Let's build your brand strategy. The Brand Strategy Canvas is a 9-box framework that forces you to do the strategic thinking before jumping to logos, taglines, and websites. It was created by Patrick Woods — ping [@patrickjwoods](https://twitter.com/patrickjwoods) with questions or feedback, or learn more at [thebrandstrategycanvas.com](https://thebrandstrategycanvas.com).
 >
 > We'll move through 4 sections:
 > 1. **Market Opportunity** — Who you're for, who you're against, and what you do
 > 2. **Benefits** — What customers rationally and emotionally get from you
 > 3. **Positioning** — The single sentence that crystallizes your brand's place in the world
 > 4. **Voice & Expression** — Values, personality, and the ideas you'll repeat
+>
+> **A few things to know before we start:**
+>
+> This process typically takes **20–30 minutes** if you have a clear picture of your customers, competitors, and product. It can take longer — sometimes a few sessions — if you need to do research first, gather customer input, or consolidate existing thinking that's scattered across docs and decks. That's normal. The quality of the output depends on the quality of the thinking you bring to it.
+>
+> When we're done, you'll have two files:
+> - **`brand-canvas.md`** — the full strategic document, ready to share with your team or use as a working reference
+> - **`brand-canvas.excalidraw`** — a visual layout of all 9 boxes; drag it into excalidraw.com to see how everything fits together
 >
 > Starting now with Market Opportunity."
 

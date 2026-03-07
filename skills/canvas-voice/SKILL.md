@@ -157,14 +157,31 @@ Write the full Section 4 to `brand-canvas.md`. Confirm: "Here's what I've captur
 ## Canvas Completion
 
 After Section 4 is written:
+
+### 1. Read it back
 > "The canvas is complete. Let me read it back to you..."
 
-Read the full canvas from `brand-canvas.md`. Then:
-> "A few things to do from here:
+Read the full canvas from `brand-canvas.md`.
+
+### 2. Generate the visual Excalidraw file
+
+Following `references/excalidraw-layout.md`:
+1. Read the completed `brand-canvas.md`
+2. Generate the full Excalidraw JSON — all 29 elements (10 boxes × 3 elements each, minus the empty bottom-left box, plus the title bar)
+3. Populate each box with the corresponding section content, truncated per the reference
+4. Write valid JSON to `brand-canvas.excalidraw` in the current working directory
+
+### 3. Deliver the summary
+
+> "Two files have been saved:
+> - **`brand-canvas.md`** — the full strategic document
+> - **`brand-canvas.excalidraw`** — drag this into [excalidraw.com](https://excalidraw.com) to see the visual canvas. You can also open it in VS Code with the Excalidraw extension.
+>
+> A few things to do from here:
 > 1. **Let it sit.** Come back in a week and read it fresh. Does it still feel true?
 > 2. **Test the positioning statement** — say it to 5 people who represent your ideal customer. Watch their reactions.
 > 3. **Check for internal consistency.** Do your values show up in your personality? Does your personality match your key messages?
-> 4. **Pin it up.** Print it and put it on a wall. This should be a living document — date-stamped so you can see how your thinking evolves."
+> 4. **Pin it up.** Print the Excalidraw canvas and put it on a wall. This is a living document — date-stamped so you can see how your thinking evolves."
 
 ---
 
