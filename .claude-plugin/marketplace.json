@@ -1,0 +1,13 @@
+{
+  "name": "patrickjwoods",
+  "description": "Plugins by Patrick Woods",
+  "plugins": [
+    {
+      "name": "brand-canvas",
+      "version": "1.0.0",
+      "description": "Interactive Brand Strategy Canvas coaching — guides founders through the 9-box brand strategy framework.",
+      "path": ".",
+      "keywords": ["brand-strategy", "startup", "branding", "positioning", "canvas", "founder"]
+    }
+  ]
+}
