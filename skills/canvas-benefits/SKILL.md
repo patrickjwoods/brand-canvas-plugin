@@ -48,6 +48,7 @@ For each of the top 3–5 features from Box C:
 > "Let's try to get specific. You said it saves time — what does that time actually look like? Is it an hour a week? Is it the thing they were dreading on Monday mornings? What do they get to do instead?"
 
 ### Rational Benefits Output Format
+**Word limit: 140 words across the full table.** Each benefit cell should be one tight, specific sentence — no padding.
 ```
 ### Rational Benefits
 | Feature | Rational Benefit |
@@ -92,6 +93,7 @@ After drafting both levels:
 - **Too emotion-heavy:** "These are beautiful but they feel a bit floating. We need the rational layer underneath to make this credible. Let's make sure we've earned each emotional benefit with a rational one."
 
 ### Emotional Benefits Output Format
+**Word limit: 140 words across the full table.** Each payoff cell should name a specific feeling, not a generic platitude — one sentence max.
 ```
 ### Emotional Benefits
 | Rational Benefit | Emotional Payoff |

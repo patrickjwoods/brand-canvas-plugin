@@ -58,8 +58,14 @@ For each candidate:
 Land on 4–6. Each gets a one-line rationale.
 
 ### Box G Output Format
+**Word limit: 140 words** including the Vision and Mission statements. Each value rationale should be one sentence — sharp enough to use in a hiring conversation.
 ```
 ### Values
+
+**Vision:** [one sentence]
+
+**Mission:** [one sentence]
+
 1. **[Value]** — [One-line rationale: why this, what it means in practice]
 2. ...
 ```
@@ -95,11 +101,14 @@ Plot on three axes — ask where they land and why:
 > "Let's make sure the personality expresses the values. If one of your values is 'directness' and your personality is formal and reserved — there's a tension there. Authenticity means your values and personality are consistent."
 
 ### Box H Output Format
+**Word limit: 140 words** across all personality elements. The Worldview should be 2–3 sentences maximum — the most important of the three elements.
 ```
 ### Personality
 **Adjectives:** [word], [word], [word], [word], [word]
 
 **Worldview:** [2–3 sentences. What does the brand believe? What position does it take?]
+
+**Strong opinion:** [One sentence — the thing the brand believes that might alienate some people]
 
 **Spectrums:**
 - Formal ↔ [Casual] (closer to casual)
@@ -135,11 +144,12 @@ Signs of failure:
 - Any sentence with "paradigm," "synergy," "best-in-class," or "seamless"
 
 ### Box I Output Format
+**Word limit: 250 words** across all key messages combined. Each message body should be 2–3 sentences — long enough to be substantive, short enough to be repeatable.
 ```
 ### Key Messages
 
 **1. [Message concept title]**
-[1–2 sentence description of the idea]
+[2–3 sentence description of the idea]
 Proof points: [a], [b], [c]
 Type: Inarguably true / Aspirational
 

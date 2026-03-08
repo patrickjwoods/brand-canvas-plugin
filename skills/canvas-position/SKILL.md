@@ -105,6 +105,9 @@ Test: Does it orient a decision? If you're debating two directions in a campaign
 
 ## Writing the Output
 
+**Statement word limit: 60 words.** Every word must earn its place — cut subordinate clauses that dilute the core idea.
+**Brand Essence: 5 words maximum, ideally 2–3.** It should orient a decision, not describe the company.
+
 ```markdown
 ## Section 3: Positioning Statement
 

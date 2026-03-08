@@ -53,6 +53,7 @@ Push for specificity: "Small businesses" is too broad. "Restaurant owners in the
 If yes: "This is important. The book recommends creating *separate canvases* for genuinely distinct audiences. A B2B SaaS company that sells to IT buyers but is used by marketers needs two canvases — the positioning for each audience will be different. Which audience should we start with?"
 
 ### Box A Output Format
+**Word limit: 160 words.** Be specific and vivid within the constraint — cut anything that isn't doing work.
 ```
 ### A. Customer/User Insight
 [3–5 sentences describing a specific person — who they are, what they believe, what frustrates them, what they want]
@@ -84,6 +85,7 @@ Listen for:
 - The emotional territory nobody has claimed
 
 ### Box B Output Format
+**Word limit: 160 words.** Prioritize the sharpest competitors and the clearest white space — don't try to be comprehensive.
 ```
 ### B. Competitive Environment
 **Competitors/alternatives:** [list with 1-line characterization each]
@@ -116,6 +118,7 @@ Listen for:
 This is the first synthesis moment: features should connect back to customer needs.
 
 ### Box C Output Format
+**Word limit: 160 words.** List only features that are strategically meaningful — not everything the product does.
 ```
 ### C. Company/Product Features
 1. [Feature] — [Defensible / Easily copied / Unique]
