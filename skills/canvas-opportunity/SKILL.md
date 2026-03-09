@@ -103,7 +103,54 @@ Listen for:
 
 *Note: Skip this box if pre-PMF. Return when the product is stable enough to characterize.*
 
-### Opening
+### Project Asset Scan (run before coaching questions)
+
+Before asking the founder to recall features from memory, check whether useful source material already exists in the working directory.
+
+**Step 1: Scan** for any of the following, recursively through subdirectories:
+- `README.md` or `README.rst`
+- `docs/` directory (any `.md`, `.txt`, or `.rst` files)
+- `ARCHITECTURE.md`, `ARCHITECTURE.txt`, or similar
+- `package.json`, `pyproject.toml`, `Cargo.toml`, `go.mod` (for product/dependency signals)
+- `openapi.yaml`, `openapi.json`, `swagger.yaml`, or similar API spec files
+- Any file with "overview", "product", "features", or "roadmap" in the name
+
+**Step 2: If relevant files are found**, present them before asking any questions:
+
+> "Before we dive into your features, I noticed some files in this project that might save us time — things like your README, docs, or config files. I'd like to read through them to pull out a draft feature list for you to react to.
+>
+> To be clear: this is read-only. I'm looking at files already on your machine, nothing is being sent anywhere, and I won't make any changes. It just means we can start from a list instead of a blank page.
+>
+> Here's what I found:
+> [list filenames]
+>
+> OK to read these?"
+
+If the founder says no, proceed directly to the coaching questions below without referencing the files again.
+
+**Step 3: If permission is granted**, read the files and extract a draft feature list. Look for:
+- Explicit feature descriptions or product capabilities
+- Stated differentiators or "why us" language
+- API endpoints or integrations that imply capability
+- Technical architecture choices that are product-relevant (e.g., "real-time", "offline-first", "open source")
+- Anything the README positions as a core value proposition
+
+Then present a draft, framed as hypotheses — not conclusions:
+
+> "Here's a draft feature list based on what I read. These are starting points — cross out anything that isn't a real differentiator, add anything I missed, and flag anything that feels more like table-stakes than a distinctive capability:
+>
+> 1. [Feature] — [brief characterization, e.g., "unique / easily copied / defensible"]
+> 2. ...
+>
+> What would you change?"
+
+Let the founder react, correct, and extend. Then move into the coaching questions for anything still unclear.
+
+**Step 4: If no relevant files are found**, skip the scan entirely and open with the standard coaching questions below.
+
+---
+
+### Opening (if no project assets, or after draft review)
 > "Now let's look at what you actually do. Not the benefits yet — just the capabilities. What does your product do that's worth listing?"
 
 ### Coaching Questions
