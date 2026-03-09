@@ -65,16 +65,31 @@ Auto-detects your current state and routes to the right section.
 
 Archives your current canvas with a version stamp and starts fresh.
 
-## The 9-Box Framework
+## What you'll work on and what you'll get 
 
-The canvas moves through four sections in order:
+Work through them in order. Each section builds on the last and feeds directly into what comes next.
 
-| Section | Boxes | Description |
-|---|---|---|
-| **Market Opportunity** | Audience, Competition/Market, You | Who you're for, who you're against, what you do |
-| **Benefits** | Rational, Emotional | What customers get — functionally and emotionally |
-| **Positioning** | Statement + Essence | The single sentence that crystallizes your brand |
-| **Voice & Expression** | Values, Personality, Key Messages | How you show up and what you consistently say |
+### 01 — Market Opportunity *(Boxes A, B, C)*
+
+- **Customer / User Insight** — A precise portrait of who you're building for — not a demographic checkbox, but a real understanding of how they think, what they fear, and what they're trying to become.
+- **Competitive Environment** — Map the landscape: what alternatives exist, how they position themselves, and where the white space is. The anti-audience exercise clarifies who you're explicitly not for.
+- **Company / Product Features** — What your product actually does. This is the raw material — before benefits, before emotion, before story.
+
+### 02 — Benefits *(Rational + Emotional)*
+
+- **Rational Benefits** — How customers experience your features — not what it does, but what it means for them. The first step up the Ladder of Abstraction.
+- **Emotional Benefits** — The higher-order payoff. This is where most startups stop — which is exactly why it's the biggest differentiation opportunity on the canvas.
+
+### 03 — Positioning *(Statement + Essence)*
+
+- **Positioning Statement** — One sentence. Who you're for, what you offer, why it matters. Every box above this one exists to make this sentence true.
+- **Brand Essence** — 2–4 words that distill the whole statement. Short enough to remember. Clear enough to make decisions from.
+
+### 04 — Voice & Expression *(Values, Personality, Key Messages)*
+
+- **Values** — Internal guide rails, not marketing copy. The nouns that describe what your company genuinely believes and how it makes decisions.
+- **Personality** — How your brand shows up in the world. Characterful, not generic. The outward expression of everything your values say internally.
+- **Key Messages** — 3–5 concepts you communicate consistently, each backed by proof points. Apply the Talk Like a Human test before you're done.
 
 Each section is coached interactively — the plugin asks questions, waits for your answers, and helps you synthesize before writing anything to the canvas.
 
