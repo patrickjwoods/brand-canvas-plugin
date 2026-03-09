@@ -1,6 +1,6 @@
 # Brand Strategy Canvas — Claude Code Plugin
 
-An interactive brand strategy coach for early-stage startup founders, built as a Claude Code plugin. Based on the book *[The Brand Strategy Canvas](https://www.amazon.com/Brand-Strategy-Canvas-One-Page-Startups/dp/148425158X)* by Patrick Woods.
+An interactive brand strategy coach for early-stage startup founders, built as a Claude Code plugin. Based on the book *[The Brand Strategy Canvas](https://www.amazon.com/Brand-Strategy-Canvas-One-Page-Startups/dp/148425158X)* by [Patrick Woods]([url](https://www.patrickwoods.com/)). Learn more at [thebrandstrategycanvas.com](https://www.thebrandstrategycanvas.com/). 
 
 ## What It Does
 
