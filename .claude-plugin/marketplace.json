@@ -1,15 +1,17 @@
 {
-  "owner": {
-    "name": "patrickjwoods",
-    "url": "https://github.com/patrickjwoods"
-  },
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "brand-canvas-plugin",
   "description": "Plugins by Patrick Woods",
+  "owner": {
+    "name": "Patrick Woods",
+    "email": "patrickjwoods@users.noreply.github.com"
+  },
   "plugins": [
     {
       "name": "brand-canvas",
       "version": "1.0.0",
       "description": "Interactive Brand Strategy Canvas coaching — guides founders through the 9-box brand strategy framework.",
-      "source": "https://github.com/patrickjwoods/brand-canvas-plugin",
+      "source": ".",
       "keywords": ["brand-strategy", "startup", "branding", "positioning", "canvas", "founder"]
     }
   ]
