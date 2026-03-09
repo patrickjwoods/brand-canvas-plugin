@@ -6,10 +6,12 @@ An interactive brand strategy coach for early-stage startup founders, built as a
 
 This plugin guides founders through the 9-box Brand Strategy Canvas — a structured framework for building brand strategy *before* jumping to logos, taglines, and websites.
 
-A single `/canvas` command routes intelligently based on your current state: starting fresh, picking up where you left off, or reviewing a completed canvas. When you're done, you'll have two files saved to your project directory:
+A single `/brand-canvas` command routes intelligently based on your current state: starting fresh, picking up where you left off, or reviewing a completed canvas. When you're done, you'll have two files saved to your project directory:
 
 - **`brand-canvas.md`** — the full strategic document
 - **`brand-canvas.excalidraw`** — a visual layout of all 9 boxes; drag into [excalidraw.com](https://excalidraw.com) to see how everything fits together
+
+![The Brand Strategy Canvas](brand-canvas-plugin.png)
 
 ## Installation
 
@@ -41,7 +43,7 @@ claude --plugin-dir ./brand-canvas-plugin
 ### Start or continue your canvas
 
 ```
-/canvas
+/brand-canvas
 ```
 
 Auto-detects your current state and routes to the right section.
@@ -49,16 +51,16 @@ Auto-detects your current state and routes to the right section.
 ### Jump to a specific section
 
 ```
-/canvas opportunity   # Market Opportunity (boxes A, B, C)
-/canvas benefits      # Rational & Emotional Benefits
-/canvas position      # Positioning Statement & Brand Essence
-/canvas voice         # Values, Personality, Key Messages
+/brand-canvas opportunity   # Market Opportunity (boxes A, B, C)
+/brand-canvas benefits      # Rational & Emotional Benefits
+/brand-canvas position      # Positioning Statement & Brand Essence
+/brand-canvas voice         # Values, Personality, Key Messages
 ```
 
 ### Start a new version
 
 ```
-/canvas new
+/brand-canvas new
 ```
 
 Archives your current canvas with a version stamp and starts fresh.
