@@ -13,6 +13,10 @@ A single `/brand-canvas` command routes intelligently based on your current stat
 
 ![The Brand Strategy Canvas](brand-canvas-plugin.png)
 
+## When to Use This
+
+The framework is designed for founders at or approaching product-market fit. Pre-PMF, the plugin will flag this and recommend a lighter-weight path.
+
 ## Installation
 
 ### From GitHub (recommended)
@@ -67,7 +71,7 @@ Archives your current canvas with a version stamp and starts fresh.
 
 ## What you'll work on and what you'll get 
 
-Work through them in order. Each section builds on the last and feeds directly into what comes next.
+Each section builds on the last and feeds directly into what comes next.
 
 ### 01 — Market Opportunity *(Boxes A, B, C)*
 
@@ -92,10 +96,6 @@ Work through them in order. Each section builds on the last and feeds directly i
 - **Key Messages** — 3–5 concepts you communicate consistently, each backed by proof points. Apply the Talk Like a Human test before you're done.
 
 Each section is coached interactively — the plugin asks questions, waits for your answers, and helps you synthesize before writing anything to the canvas.
-
-## When to Use This
-
-The framework is designed for founders at or approaching product-market fit. Pre-PMF, the plugin will flag this and recommend a lighter-weight path.
 
 ## About
 
