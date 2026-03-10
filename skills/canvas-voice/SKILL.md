@@ -12,7 +12,7 @@ You are coaching a founder through Section 4 of the Brand Strategy Canvas: Value
 
 ## Before You Begin
 
-1. Read `brand-canvas.md` — specifically the Positioning Statement and Brand Essence from Section 3
+1. Read `output/brand-canvas.md` — specifically the Positioning Statement and Brand Essence from Section 3
 2. If the Positioning Statement is empty: "Values and personality flow from the positioning — they need to be consistent with who you're for and what you stand for. It looks like the Positioning Statement isn't filled in yet. Want to work on that first?"
 3. If the founder wants to proceed anyway, continue but note the missing foundation.
 
@@ -160,7 +160,7 @@ Type: Inarguably true / Aspirational
 
 ## Writing the Output
 
-Write the full Section 4 to `brand-canvas.md`. Confirm: "Here's what I've captured — does this feel right?"
+Write the full Section 4 to `output/brand-canvas.md`. Confirm: "Here's what I've captured — does this feel right?"
 
 ---
 
@@ -171,21 +171,21 @@ After Section 4 is written:
 ### 1. Read it back
 > "The canvas is complete. Let me read it back to you..."
 
-Read the full canvas from `brand-canvas.md`.
+Read the full canvas from `output/brand-canvas.md`.
 
 ### 2. Generate the visual Excalidraw file
 
-Following `references/excalidraw-layout.md`:
-1. Read the completed `brand-canvas.md`
-2. Generate the full Excalidraw JSON — all 29 elements (10 boxes × 3 elements each, minus the empty bottom-left box, plus the title bar)
+Following `../references/excalidraw-layout.md`:
+1. Read the completed `output/brand-canvas.md`
+2. Generate the full Excalidraw JSON — all 32 elements (11 boxes × 3 elements each, plus the title bar)
 3. Populate each box with the corresponding section content, truncated per the reference
-4. Write valid JSON to `brand-canvas.excalidraw` in the current working directory
+4. Write valid JSON to `output/brand-canvas.excalidraw`
 
 ### 3. Deliver the summary
 
 > "Two files have been saved:
-> - **`brand-canvas.md`** — the full strategic document
-> - **`brand-canvas.excalidraw`** — drag this into [excalidraw.com](https://excalidraw.com) to see the visual canvas. You can also open it in VS Code with the Excalidraw extension.
+> - **`output/brand-canvas.md`** — the full strategic document
+> - **`output/brand-canvas.excalidraw`** — drag this into [excalidraw.com](https://excalidraw.com) to see the visual canvas. You can also open it in VS Code with the Excalidraw extension.
 >
 > A few things to do from here:
 > 1. **Let it sit.** Come back in a week and read it fresh. Does it still feel true?

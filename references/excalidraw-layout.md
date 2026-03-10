@@ -9,12 +9,13 @@ When the canvas is complete, generate `brand-canvas.excalidraw` using this spec.
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
 │              BRAND STRATEGY CANVAS — [Company Name]                    │  y=0, h=60
-├──────────────────┬────────────────────────────┬────────────────────────┤
-│ A. Customer/User │ B. Competitive Environment  │ C. Features            │  y=60, h=200
-│    Insight       │                             │                        │
-├──────────────────┤                             ├────────────────────────┤
-│ Rational         │ ┌─────────────────────────┐ │ Values                 │  y=260, h=200
-│ Benefits         │ │                         │ │                        │
+├───────────────┬───────────────┬───────────────┬────────────────────────┤
+│ A. Customer/  │ B. Cultural   │ C. Competitive│ D. Features            │  y=60, h=200
+│    User       │    Moment     │    Environment│                        │
+│    Insight    │               │               │                        │
+├───────────────┴───────────────┴───────────────┤                        │
+│ Rational         │ ┌─────────────────────────┐ ├────────────────────────┤
+│ Benefits         │ │                         │ │ Values                 │  y=260, h=200
 ├──────────────────┤ │  POSITIONING STATEMENT  │ ├────────────────────────┤
 │ Emotional        │ │                         │ │ Personality            │  y=460, h=200
 │ Benefits         │ │  Brand Essence: ...     │ │                        │
@@ -27,12 +28,15 @@ When the canvas is complete, generate `brand-canvas.excalidraw` using this spec.
 
 ## Box Coordinates
 
+Top row: 4 equal boxes at 390px each (4 × 390 = 1560).
+
 | Box | x | y | w | h | Background |
 |-----|---|---|---|---|------------|
 | Title bar | 0 | 0 | 1560 | 60 | #1971c2 |
-| A. Customer/User Insight | 0 | 60 | 420 | 200 | #e7f5ff |
-| B. Competitive Environment | 420 | 60 | 720 | 200 | #e7f5ff |
-| C. Company/Product Features | 1140 | 60 | 420 | 200 | #e7f5ff |
+| A. Customer/User Insight | 0 | 60 | 390 | 200 | #e7f5ff |
+| B. Cultural Moment | 390 | 60 | 390 | 200 | #e7f5ff |
+| C. Competitive Environment | 780 | 60 | 390 | 200 | #e7f5ff |
+| D. Company/Product Features | 1170 | 60 | 390 | 200 | #e7f5ff |
 | Rational Benefits | 0 | 260 | 420 | 200 | #ebfbee |
 | Positioning Statement | 420 | 260 | 720 | 400 | #fff9db |
 | Values | 1140 | 260 | 420 | 200 | #f3f0ff |
@@ -110,9 +114,10 @@ Each box is fixed-size — truncate content to fit. Add `...` if truncated.
 
 | Box | Max chars |
 |-----|-----------|
-| A. Customer/User Insight | 300 |
-| B. Competitive Environment | 400 |
-| C. Company/Product Features | 300 |
+| A. Customer/User Insight | 280 |
+| B. Cultural Moment | 280 |
+| C. Competitive Environment | 280 |
+| D. Company/Product Features | 280 |
 | Rational Benefits | 260 |
 | Emotional Benefits | 260 |
 | Positioning Statement | full statement + brand essence (no truncation) |
@@ -131,12 +136,13 @@ Generate elements in this order (each box = rect, title text, body text):
 2. Box A rect + title + body (seed 1003–1005)
 3. Box B rect + title + body (seed 1006–1008)
 4. Box C rect + title + body (seed 1009–1011)
-5. Rational Benefits rect + title + body (seed 1012–1014)
-6. Positioning Statement rect + title + body (seed 1015–1017)
-7. Values rect + title + body (seed 1018–1020)
-8. Emotional Benefits rect + title + body (seed 1021–1023)
-9. Personality rect + title + body (seed 1024–1026)
-10. Key Messages rect + title + body (seed 1027–1029)
+5. Box D rect + title + body (seed 1012–1014)
+6. Rational Benefits rect + title + body (seed 1015–1017)
+7. Positioning Statement rect + title + body (seed 1018–1020)
+8. Values rect + title + body (seed 1021–1023)
+9. Emotional Benefits rect + title + body (seed 1024–1026)
+10. Personality rect + title + body (seed 1027–1029)
+11. Key Messages rect + title + body (seed 1030–1032)
 
 ---
 
@@ -147,7 +153,7 @@ Generate elements in this order (each box = rect, title text, body text):
   "type": "excalidraw",
   "version": 2,
   "source": "brand-strategy-canvas",
-  "elements": [ ...all 29 elements... ],
+  "elements": [ ...all 32 elements... ],
   "appState": {
     "gridSize": null,
     "viewBackgroundColor": "#ffffff"

@@ -66,7 +66,32 @@ If yes to any of these: separate canvases.
 
 ---
 
-## Box B: Competitive Environment — Extended Questions
+## Box B: Cultural Moment — Extended Questions
+
+### Identifying the Shift
+- What's happening in your industry right now that didn't exist — or wasn't significant — 2–3 years ago?
+- What are your best customers all talking about that they weren't talking about before? What are your smart friends feeling and saying? 
+- What's changing in technology, regulation, culture, or behavior that creates an opening for your brand?
+- What problem does your brand solve that was previously unsolvable, too expensive, or too niche to matter?
+
+### Testing the Window
+- Why does this moment exist now and not five years ago? What changed?
+- Is the window closing or opening? How long does your brand have to claim this position?
+- Who else is sensing this moment? Are competitors responding to it — and if so, how?
+
+### Finding the Implicit Knowledge
+Many founders can articulate the moment better by starting with what they're *not* saying explicitly:
+- What do you and your customers nod about in conversations — the thing you both sense is changing but haven't put into words?
+- What would you tell a friend over dinner who asked "why is now the right time for this company?"
+- What would a journalist writing about your space put in the first paragraph to explain why this story is happening now?
+
+### Durability Check
+- Is this a permanent structural change, or a temporary window?
+- If the moment shifts in 12–18 months, does your positioning still hold? (It should — the positioning survives the moment, even when the "at a time when" clause gets updated.)
+
+---
+
+## Box C: Competitive Environment — Extended Questions
 
 ### Competitive Mapping
 - What are the 5 most common searches your customer does before finding you?
@@ -87,7 +112,7 @@ If yes to any of these: separate canvases.
 
 ---
 
-## Box C: Features — Extended Questions
+## Box D: Features — Extended Questions
 
 ### Feature Prioritization
 - Which features do customers use first?

@@ -4,12 +4,12 @@ An interactive brand strategy coach for early-stage startup founders, built as a
 
 ## What It Does
 
-This plugin guides founders through the 9-box Brand Strategy Canvas — a structured framework for building brand strategy *before* jumping to logos, taglines, and websites.
+This plugin guides founders through the 10-box Brand Strategy Canvas — a structured framework for building brand strategy *before* jumping to logos, taglines, and websites.
 
-A single `/brand-canvas` command routes intelligently based on your current state: starting fresh, picking up where you left off, or reviewing a completed canvas. When you're done, you'll have two files saved to your project directory:
+A single `/brand-canvas` command routes intelligently based on your current state: starting fresh, picking up where you left off, or reviewing a completed canvas. When you're done, you'll have two files saved to your project's `output/` directory:
 
-- **`brand-canvas.md`** — the full strategic document
-- **`brand-canvas.excalidraw`** — a visual layout of all 9 boxes; drag into [excalidraw.com](https://excalidraw.com) to see how everything fits together
+- **`output/brand-canvas.md`** — the full strategic document
+- **`output/brand-canvas.excalidraw`** — a visual layout of all 10 boxes; drag into [excalidraw.com](https://excalidraw.com) to see how everything fits together
 
 ![The Brand Strategy Canvas](brand-canvas-plugin.png)
 
@@ -55,7 +55,7 @@ Auto-detects your current state and routes to the right section.
 ### Jump to a specific section
 
 ```
-/brand-canvas opportunity   # Market Opportunity (boxes A, B, C)
+/brand-canvas opportunity   # Market Opportunity (boxes A, B, C, D)
 /brand-canvas benefits      # Rational & Emotional Benefits
 /brand-canvas position      # Positioning Statement & Brand Essence
 /brand-canvas voice         # Values, Personality, Key Messages
@@ -73,9 +73,10 @@ Archives your current canvas with a version stamp and starts fresh.
 
 Each section builds on the last and feeds directly into what comes next.
 
-### 01 — Market Opportunity *(Boxes A, B, C)*
+### 01 — Market Opportunity *(Boxes A, B, C, D)*
 
 - **Customer / User Insight** — A precise portrait of who you're building for — not a demographic checkbox, but a real understanding of how they think, what they fear, and what they're trying to become.
+- **Cultural Moment** — What's shifting in culture, technology, or the market that makes this brand timely *right now*. The "why now" that separates a brand that feels prescient from one that feels generic. The most dynamic box on the canvas — revisit it as the moment evolves.
 - **Competitive Environment** — Map the landscape: what alternatives exist, how they position themselves, and where the white space is. The anti-audience exercise clarifies who you're explicitly not for.
 - **Company / Product Features** — What your product actually does. This is the raw material — before benefits, before emotion, before story.
 

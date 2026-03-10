@@ -13,7 +13,7 @@ Go slowly. This section earns that.
 
 ## Before You Begin
 
-1. Read *all* prior sections from `brand-canvas.md` (A through E)
+1. Read *all* prior sections from `output/brand-canvas.md` (A through E)
 2. If any of A–E are empty: "The positioning statement is synthesized from your customer insight, competitive landscape, features, and benefits. It looks like [X section] isn't filled in yet. That section feeds directly into the statement — want to work on that first?"
 3. If the founder insists on proceeding anyway, continue but note which inputs are missing.
 
@@ -28,8 +28,9 @@ Don't rush this. The book recommends 2 weeks start to finish for the whole canva
 ## The Template
 
 ```
-For [audience (A)], [brand] is the [description] that [benefit]
-because [proof (C)] so that [payoff (E)].
+For [audience (A)], at a time when [cultural moment (B)],
+[brand] is the [description] that [benefit]
+because [proof (D)] so that [payoff (E)].
 
 Brand Essence: [2–4 words]
 ```
@@ -46,8 +47,9 @@ Before drafting, do a synthesis read-back.
 
 Synthesize:
 - **From A:** The single most powerful insight about the customer — their core frustration or belief
-- **From B:** The clearest white space — the thing no competitor is owning
-- **From C:** The 1–2 features that most directly address A
+- **From B:** The cultural moment — what's shifting right now that makes this brand timely
+- **From C:** The clearest white space — the thing no competitor is owning
+- **From D:** The 1–2 features that most directly address A
 - **From Rational Benefits:** The most specific, felt experience the product delivers
 - **From Emotional Benefits:** The most distinctive emotional payoff
 
@@ -112,13 +114,13 @@ Test: Does it orient a decision? If you're debating two directions in a campaign
 ## Section 3: Positioning Statement
 
 **Statement:**
-For [audience], [brand] is the [description] that [benefit]
+For [audience], at a time when [cultural moment], [brand] is the [description] that [benefit]
 because [proof] so that [payoff].
 
 **Brand Essence:** [2–4 words]
 ```
 
-Write to `brand-canvas.md`. Confirm: "Here's the positioning section. Read it against everything you wrote in Sections 1 and 2. Does it feel like the same brand?"
+Write to `output/brand-canvas.md`. Confirm: "Here's the positioning section. Read it against everything you wrote in Sections 1 and 2. Does it feel like the same brand?"
 
 ---
 

@@ -6,7 +6,7 @@ _Completed example with annotation. Primary example used throughout the book._
 
 ## The Positioning Statement
 
-**For growing businesses with strong opinions, MailChimp is the creative marketing platform that helps you find your people and keep them engaged because of our comprehensive platform that anyone can use, so that you can be yourself on a bigger stage.**
+**For growing businesses with strong opinions, at a time when small businesses were moving online but professional marketing tools were still built for enterprise teams, MailChimp is the creative marketing platform that helps you find your people and keep them engaged because of our comprehensive platform that anyone can use, so that you can be yourself on a bigger stage.**
 
 **Brand Essence:** Keep growing.
 
@@ -20,6 +20,12 @@ Two qualifiers working together:
 - "Growing businesses" → not enterprise, not lifestyle, not early-stage pre-revenue. Businesses that are already moving and want to accelerate.
 - "With strong opinions" → the psychographic qualifier. It signals: we're for people who have a point of view about their brand and their customers. It includes and *selects for* the Sarahs of the world — founders with personality and conviction. It implicitly excludes enterprise teams managing by committee.
 
+**"at a time when small businesses were moving online but professional marketing tools were still built for enterprise teams"**
+- The cultural moment — drawn from Box B
+- Names the structural gap without requiring the audience to learn new language: they were already feeling this friction
+- Makes the brand feel like it arrived at exactly the right moment, not too early (when small businesses weren't online yet) and not too late (when competitors had already filled the gap)
+- Note: this clause is the most time-sensitive element of the statement. As the market matures and more accessible tools exist, this moment clause would need to evolve — but the rest of the statement holds
+
 **"is the creative marketing platform"**
 - Category: "marketing platform" — orients the audience to an existing category frame
 - Modifier: "creative" — the differentiator. Not "professional," not "powerful," not "comprehensive." Creative. This positions against category language that feels corporate and in favor of brand expression, personality, and authenticity.
@@ -31,7 +37,7 @@ Two qualifiers working together:
 - Note the language: "your people" — not "your leads" or "your subscribers." Humanizing language consistent with the creative/personal positioning.
 
 **"because of our comprehensive platform that anyone can use"**
-- The proof: draws from Box C features — the breadth of the platform (email, automations, landing pages, analytics) and the accessibility (drag-and-drop, templates, free tier)
+- The proof: draws from Box D features — the breadth of the platform (email, automations, landing pages, analytics) and the accessibility (drag-and-drop, templates, free tier)
 - "Anyone can use" is the key credibility point for the anti-jargon, anti-corporate positioning
 
 **"so that you can be yourself on a bigger stage"**

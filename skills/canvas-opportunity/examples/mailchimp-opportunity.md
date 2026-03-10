@@ -14,7 +14,15 @@ Sarah believes that authenticity matters — her customers want to feel like the
 
 ---
 
-## B. Competitive Environment
+## B. Cultural Moment
+
+By the mid-2000s, small businesses were moving online in large numbers for the first time — not just building websites, but trying to build actual customer relationships digitally. Broadband had crossed into the mainstream. Email was proven. But the tools to do email marketing were built for enterprise departments: expensive, complex, requiring technical staff to operate. The internet had democratized the audience, but the tools to reach that audience were still priced and designed for professionals.
+
+**Why now:** The gap between "anyone can have a website" and "anyone can market like a real brand" was wide open — and getting harder to ignore as small business owners watched their larger competitors do things they couldn't. Mailchimp was built specifically for that window: after the audience was democratized, before the tools were.
+
+---
+
+## C. Competitive Environment
 
 **Competitors/alternatives:**
 - **Constant Contact** — positioned as professional and reliable; feels corporate and dated; targets small businesses but communicates like a vendor, not a peer
@@ -36,7 +44,7 @@ There's also no competitor owning warmth, personality, and delight in a category
 
 ---
 
-## C. Company/Product Features
+## D. Company/Product Features
 
 1. **Drag-and-drop email builder** — No coding, anyone can build a good-looking email — Easily copied
 2. **Audience segmentation** — Target different groups with different content — Moderately defensible (data quality + breadth)
@@ -54,4 +62,4 @@ There's also no competitor owning warmth, personality, and delight in a category
 
 ---
 
-_Synthesis: Mailchimp's market opportunity sits at the overlap of a customer (Sarah) who wants to grow without becoming someone she's not, a category that speaks to professionals not people, and a product that genuinely makes professional marketing accessible to non-marketers. The white space is: "be yourself, on a bigger stage."_
+_Synthesis: Mailchimp's market opportunity sits at the overlap of a customer (Sarah) who wants to grow without becoming someone she's not, a cultural moment where the tools for professional marketing hadn't yet caught up to the democratization of online audiences, a category that speaks to professionals not people, and a product that genuinely makes professional marketing accessible to non-marketers. The white space is: "be yourself, on a bigger stage."_
