@@ -10,8 +10,8 @@ When the canvas is complete, generate `brand-canvas.excalidraw` using this spec.
 ┌────────────────────────────────────────────────────────────────────────┐
 │              BRAND STRATEGY CANVAS — [Company Name]                    │  y=0, h=60
 ├───────────────┬───────────────┬───────────────┬────────────────────────┤
-│ A. Customer/  │ B. Cultural   │ C. Competitive│ D. Features            │  y=60, h=200
-│    User       │    Moment     │    Environment│                        │
+│ A. Customer/  │ B. Cultural   │ C. Features   │ D. Competitive         │  y=60, h=200
+│    User       │    Moment     │               │    Environment         │
 │    Insight    │               │               │                        │
 ├───────────────┴───────────────┴───────────────┤                        │
 │ Rational         │ ┌─────────────────────────┐ ├────────────────────────┤
@@ -35,8 +35,8 @@ Top row: 4 equal boxes at 390px each (4 × 390 = 1560).
 | Title bar | 0 | 0 | 1560 | 60 | #1971c2 |
 | A. Customer/User Insight | 0 | 60 | 390 | 200 | #e7f5ff |
 | B. Cultural Moment | 390 | 60 | 390 | 200 | #e7f5ff |
-| C. Competitive Environment | 780 | 60 | 390 | 200 | #e7f5ff |
-| D. Company/Product Features | 1170 | 60 | 390 | 200 | #e7f5ff |
+| C. Company/Product Features | 780 | 60 | 390 | 200 | #e7f5ff |
+| D. Competitive Environment | 1170 | 60 | 390 | 200 | #e7f5ff |
 | Rational Benefits | 0 | 260 | 420 | 200 | #ebfbee |
 | Positioning Statement | 420 | 260 | 720 | 400 | #fff9db |
 | Values | 1140 | 260 | 420 | 200 | #f3f0ff |
@@ -49,7 +49,7 @@ Top row: 4 equal boxes at 390px each (4 × 390 = 1560).
 ## Color Scheme
 
 - **Title bar**: background `#1971c2`, text `#ffffff`
-- **Market Opportunity** (A, B, C): `#e7f5ff` (light blue)
+- **Market Opportunity** (A, B, C, D): `#e7f5ff` (light blue)
 - **Benefits** (Rational, Emotional): `#ebfbee` (light green)
 - **Positioning Statement**: `#fff9db` (warm cream) — the center of the canvas
 - **Voice** (Values, Personality, Key Messages): `#f3f0ff` (light purple)
@@ -116,8 +116,8 @@ Each box is fixed-size — truncate content to fit. Add `...` if truncated.
 |-----|-----------|
 | A. Customer/User Insight | 280 |
 | B. Cultural Moment | 280 |
-| C. Competitive Environment | 280 |
-| D. Company/Product Features | 280 |
+| C. Company/Product Features | 280 |
+| D. Competitive Environment | 280 |
 | Rational Benefits | 260 |
 | Emotional Benefits | 260 |
 | Positioning Statement | full statement + brand essence (no truncation) |

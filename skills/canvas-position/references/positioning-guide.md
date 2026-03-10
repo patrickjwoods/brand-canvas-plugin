@@ -8,8 +8,8 @@ Reference guide for the `canvas-position` skill.
 
 ```
 For [audience (A)], at a time when [cultural moment (B)],
-[brand] is the [description] that [benefit]
-because [proof (D)] so that [payoff (E)].
+[brand] is the [description (C)] that [benefit (D)]
+because [proof (E)] so that [payoff (F)].
 ```
 
 ### Breaking Down Each Component
@@ -38,10 +38,10 @@ Examples:
 **"[benefit]"**
 The main value proposition — drawn from your rational and emotional benefits. Not what the product does; what the customer *gets*. The highest-credibility benefit that also resonates emotionally.
 
-**"because [proof (D)]"**
-The reason to believe. Drawn from Box D (Features). Why should the audience believe the benefit is true? What evidence does the product offer? Keep it specific — "because of our comprehensive platform that anyone can use" is better than "because of our advanced technology."
+**"because [proof (E)]"**
+The reason to believe. Drawn from Box C (Features). Why should the audience believe the benefit is true? What evidence does the product offer? Keep it specific — "because of our comprehensive platform that anyone can use" is better than "because of our advanced technology."
 
-**"so that [payoff (E)]"**
+**"so that [payoff (F)]"**
 The emotional payoff. The "so that" moves the statement to the highest level of abstraction — what the brand ultimately gives the customer at a human level. Drawn from your Emotional Benefits. Aspirational but not hollow.
 
 ---

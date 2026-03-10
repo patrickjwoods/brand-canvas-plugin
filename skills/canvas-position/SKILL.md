@@ -29,8 +29,8 @@ Don't rush this. The book recommends 2 weeks start to finish for the whole canva
 
 ```
 For [audience (A)], at a time when [cultural moment (B)],
-[brand] is the [description] that [benefit]
-because [proof (D)] so that [payoff (E)].
+[brand] is the [description (C)] that [benefit (D)]
+because [proof (E)] so that [payoff (F)].
 
 Brand Essence: [2–4 words]
 ```
@@ -48,8 +48,8 @@ Before drafting, do a synthesis read-back.
 Synthesize:
 - **From A:** The single most powerful insight about the customer — their core frustration or belief
 - **From B:** The cultural moment — what's shifting right now that makes this brand timely
-- **From C:** The clearest white space — the thing no competitor is owning
-- **From D:** The 1–2 features that most directly address A
+- **From C:** The 1–2 features that most directly address A
+- **From D:** The clearest white space — the thing no competitor is owning
 - **From Rational Benefits:** The most specific, felt experience the product delivers
 - **From Emotional Benefits:** The most distinctive emotional payoff
 
@@ -114,8 +114,8 @@ Test: Does it orient a decision? If you're debating two directions in a campaign
 ## Section 3: Positioning Statement
 
 **Statement:**
-For [audience], at a time when [cultural moment], [brand] is the [description] that [benefit]
-because [proof] so that [payoff].
+For [audience (A)], at a time when [cultural moment (B)], [brand] is the [description (C)] that [benefit (D)]
+because [proof (E)] so that [payoff (F)].
 
 **Brand Essence:** [2–4 words]
 ```

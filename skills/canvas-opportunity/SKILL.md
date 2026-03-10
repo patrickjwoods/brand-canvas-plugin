@@ -17,7 +17,7 @@ You are coaching a founder through Section 1 of the Brand Strategy Canvas: the f
 **If pre-PMF stage gate:** Acknowledge the situation directly.
 > "Before we dive in — if you haven't reached product-market fit yet, I'd hold off on the full canvas for now. The book is clear on this: pre-PMF, just don't be terrible. The exception is if your name or positioning is actively *hurting* customer discovery. Are you at or past PMF, or still finding it?"
 
-If pre-PMF, focus on boxes A and B only. Skip C (Competitive Environment) and D (features) for now and note why.
+If pre-PMF, focus on boxes A and B only. Skip C (Company/Product Features) and D (Competitive Environment) for now and note why.
 
 ## Coaching Approach
 
@@ -99,41 +99,7 @@ Why now: [1–2 sentences on the specific window that's open — what's changed 
 
 ---
 
-## Box C: Competitive Environment
-
-**Goal:** A clear-eyed landscape summary that identifies category themes and genuine white space. Informed by the Cultural Moment in Box B — the moment often reveals what the category is missing.
-
-### Opening
-> "Let's look at the world your customer sees before they find you. Not just your direct competitors — the full landscape of options, including doing nothing."
-
-### Coaching Questions
-1. Who are the top 3–5 competitors or closest alternatives? Include "do nothing" or spreadsheets/manual work if relevant.
-2. If you look at their marketing — websites, ads, messaging — what words and themes keep showing up? What does the category *say* about itself?
-3. Where is the white space? What isn't being said? What does no one seem to own?
-4. What mental model does your audience already use to think about this space?
-
-### Category Audit
-> "Pretend you're your ideal customer, searching for solutions to their problem. What do they find? What are they promised? What gets said over and over?"
-
-Listen for:
-- Category clichés ("revolutionary", "seamless", "all-in-one")
-- Unspoken assumptions about the problem
-- The emotional territory nobody has claimed
-
-### Box C Output Format
-**Word limit: 160 words.** Prioritize the sharpest competitors and the clearest white space — don't try to be comprehensive.
-```
-### C. Competitive Environment
-**Competitors/alternatives:** [list with 1-line characterization each]
-
-**Dominant category themes:** [2–4 phrases or ideas that dominate competitor messaging]
-
-**White space:** [what's unclaimed — the territory available to your brand]
-```
-
----
-
-## Box D: Company/Product Features
+## Box C: Company/Product Features
 
 **Goal:** A prioritized list of distinctive features with defensibility notes.
 
@@ -200,15 +166,49 @@ Let the founder react, correct, and extend. Then move into the coaching question
 
 This is the first synthesis moment: features should connect back to customer needs.
 
-### Box D Output Format
+### Box C Output Format
 **Word limit: 160 words.** List only features that are strategically meaningful — not everything the product does.
 ```
-### D. Company/Product Features
+### C. Company/Product Features
 1. [Feature] — [Defensible / Easily copied / Unique]
 2. ...
 3. ...
 
 Top 3 most relevant to customer frustration: [list]
+```
+
+---
+
+## Box D: Competitive Environment
+
+**Goal:** A clear-eyed landscape summary that identifies category themes and genuine white space. Informed by the Cultural Moment in Box B — the moment often reveals what the category is missing.
+
+### Opening
+> "Let's look at the world your customer sees before they find you. Not just your direct competitors — the full landscape of options, including doing nothing."
+
+### Coaching Questions
+1. Who are the top 3–5 competitors or closest alternatives? Include "do nothing" or spreadsheets/manual work if relevant.
+2. If you look at their marketing — websites, ads, messaging — what words and themes keep showing up? What does the category *say* about itself?
+3. Where is the white space? What isn't being said? What does no one seem to own?
+4. What mental model does your audience already use to think about this space?
+
+### Category Audit
+> "Pretend you're your ideal customer, searching for solutions to their problem. What do they find? What are they promised? What gets said over and over?"
+
+Listen for:
+- Category clichés ("revolutionary", "seamless", "all-in-one")
+- Unspoken assumptions about the problem
+- The emotional territory nobody has claimed
+
+### Box D Output Format
+**Word limit: 160 words.** Prioritize the sharpest competitors and the clearest white space — don't try to be comprehensive.
+```
+### D. Competitive Environment
+**Competitors/alternatives:** [list with 1-line characterization each]
+
+**Dominant category themes:** [2–4 phrases or ideas that dominate competitor messaging]
+
+**White space:** [what's unclaimed — the territory available to your brand]
 ```
 
 ---
@@ -221,8 +221,8 @@ After all four boxes are drafted, do not skip this step.
 
 Overlay the four boxes and ask:
 - Does the Cultural Moment in B explain *why now* for the customer frustration in A?
-- Does the white space in C connect to an unmet need in A that D addresses?
-- Is there a feature in D that addresses a frustration in A that no competitor in C is solving — and that the Cultural Moment in B makes urgent?
+- Does the white space in D connect to an unmet need in A that C addresses?
+- Is there a feature in C that addresses a frustration in A that no competitor in D is solving — and that the Cultural Moment in B makes urgent?
 - That overlap is your market opportunity. Let's make sure that's visible in how we write this up.
 
 Revise output if the synthesis reveals a sharper angle.
